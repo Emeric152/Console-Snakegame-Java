@@ -1,4 +1,4 @@
-package me.emeric.console.snake.version1_0_0;
+package me.emeric.console.snake;
 
 import java.util.Arrays;
 
